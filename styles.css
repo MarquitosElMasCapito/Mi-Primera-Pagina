@@ -37,10 +37,11 @@ p {
     padding: 10px;
   }
 
-.greeting {
+
+
+.haz-click-en-mo {
   text-align: center;
 }
-
 
   @media (max-width: 600px) {
     .column {
