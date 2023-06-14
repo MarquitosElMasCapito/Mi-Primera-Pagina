@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Primer paso"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mi-Primera-Pagina"
+	}
+}
